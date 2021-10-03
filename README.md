@@ -25,22 +25,22 @@ Also you must write e-mail adress and password according `EMAIL` and `EMAIL_PASS
 
 
 ## Get Started
-Run project in development mode:
+Please run commands below. Then start to edit src/servis.ts
 
 
-## Run for development 
+Run for development 
 
 ```sh
 $ npm run dev 
 ```
 
-## Run for production 
+ Run for production 
 
 ```sh
 $ npm start
 ```
 
-## Linting and Prettier  
+Linting and Prettier  
 
 ```sh
 $ npm run lint 
