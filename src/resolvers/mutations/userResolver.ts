@@ -123,7 +123,7 @@ const userResolver = {
       mailer(
         email,
         'Succes of Become Tutor',
-        'We are congurtulation for tutor . we are soon accept your application \n Malibr.Inc'
+        'We are congurtulation for tutor . we are soon accept your application \n XXXX.Inc'
       );
       res.header('Header-Token', token);
       return saveTeacher.userId;
