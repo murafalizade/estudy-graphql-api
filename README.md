@@ -25,7 +25,7 @@ Also you must write e-mail adress and password according `EMAIL` and `EMAIL_PASS
 
 
 ## Get Started
-Please run commands below. Then start to edit src/servis.ts
+Please run commands below. Then you can start editing the page by modifying `src/index.js`. 
 
 
 Run for development 
@@ -44,6 +44,7 @@ Linting and Prettier
 
 ```sh
 $ npm run lint 
+ #and
 $ npm run prettier
 ```
 
