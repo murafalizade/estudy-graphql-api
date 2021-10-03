@@ -44,7 +44,7 @@ Linting and Prettier
 
 ```sh
 $ npm run lint 
- #and
+# and
 $ npm run prettier
 ```
 
