@@ -3,8 +3,8 @@
 
 ## Project Description
 This is API for e-study companies. You can use most of function inside real study with this API.
-You can become STUDENT or TEACHER. SO if you wish be teacher and publish own course (live-course) or
-be student, join current course (live-course).
+You can become student or teacher. SO if you wish be teacher and publish own course  or
+be student, join current course .
 
 
  ## Installation Instructions
